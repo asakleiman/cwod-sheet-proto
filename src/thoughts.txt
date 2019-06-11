@@ -1,0 +1,1 @@
+read statbox config to state as html-
